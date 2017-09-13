@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Shopify Winternship Challenge</string>
+    <string name="url">https://shopicruit.myshopify.com/admin/orders.json?page=1&amp;access_token=c32313df0d0ef512ca64d5b336a0d7c6&amp;fields=email,total-price,line_items"</string>
+    <string name="napoleon_title">Total Spent by Napoleon Batz</string>
+    <string name="bronze_bags_title">Awesome Bronze Bags Sold</string>
+</resources>
